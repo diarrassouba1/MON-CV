@@ -164,10 +164,13 @@ color: rgb(255, 161, 161);
    
 }
 
-
+.box .autres{
+    width: 200%;
+}
 
 p{
     color: #333;
+    margin-bottom: 20px;
 }
 
 .about .box{
@@ -264,5 +267,6 @@ p{
     }
 }
     
+
 
 
